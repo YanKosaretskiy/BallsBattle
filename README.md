@@ -4,11 +4,11 @@
 
 ## референс
 
-![Reference](docx/reference.gif)
+![Reference](docs/reference.gif)
 
 ## геймплей
 
-
+![Gameplay](docs/gameplay.gif)
 
 **[WebGL версия](https://yankosaretskiy.github.io/BallsBattle/)**
 
