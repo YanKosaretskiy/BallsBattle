@@ -2,7 +2,12 @@
 
 > Дуэль двух шаров с оружием, сделанная на Unity/C#
 
+## референс
+
 ![Reference](docx/reference.gif)
+
+## геймплей
+
 ![Gameplay](docs/gameplay.gif)
 
 **[WebGL версия](https://yankosaretskiy.github.io/BallsBattle/)**
