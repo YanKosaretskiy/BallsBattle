@@ -8,7 +8,7 @@
 
 ## геймплей
 
-![Gameplay](docs/gameplay.gif)
+
 
 **[WebGL версия](https://yankosaretskiy.github.io/BallsBattle/)**
 
